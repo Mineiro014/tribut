@@ -1,0 +1,144 @@
+body{
+    margin:0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+    
+}
+.container {
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+    width: 100%;
+    border-bottom: solid white;
+    border-top:solid white;
+}
+
+.icon_title1{
+    font-size: 70px;
+    margin-top:10px;
+    color:white ;
+    text-shadow: 5px 5px 5px blue;
+    
+}
+.container img{
+    width: 50px;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.texts img{
+    width: 300px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    background-color: #141414;
+
+}
+.text_1{
+font-size: 50px;
+color: white;
+text-shadow: 2px 2px 5px  rgb(255, 255, 255);
+border-bottom: solid 2px white;
+}
+.logo_text{
+
+}
+.text_2{
+font-size: 50px;
+color: white;
+text-shadow: 2px 2px 5px  rgb(255, 255, 255);
+margin-left: 60PX;  
+
+}
+.text_3{
+    background-color: white;
+    height: 2px;
+    width: 250px;
+    margin-bottom: 60px;
+    margin-left: 45px;
+
+}
+article{
+    display: flex;
+    justify-content: center;
+    background-color: #1e1e1e;
+    border-bottom: solid 2px white;
+    border-top:solid 2px white   ;
+}
+.history{
+    font-size: 25px;
+    color: white;
+}
+aside{
+    display: flex;
+    justify-content: center;
+   
+    
+    align-items: center;
+    
+    background-color:#141414 ;
+}
+.history_2{
+margin-top: 10px;
+margin-bottom: 20px;
+font-size: 30px;
+width: 800px;
+color: white;
+border: solid 2px white
+}
+.opera_gx img{
+    width: 350px;
+    justify-content: center;
+}
+main{
+    
+        display: flex;
+        justify-content: center;
+       
+        
+        align-items: center;
+        
+        background-color:#141414 ;
+    
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1e1e1e;
+}
+footer p{
+font-size: 15px;
+color: white;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+.icon_opera{
+    font-size: 30px;
+    color: white;
+    border: solid rgb(219, 54, 54) 10px;
+    background-color: rgb(219, 54, 54);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:0px 0px 20px rgb(255, 0, 0) ;
+    cursor:pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+section a{
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+
+}
+footer audio{
+    align-items: flex-start;
+}
